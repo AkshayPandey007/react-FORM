@@ -1,0 +1,14 @@
+{
+  "table": [
+    {
+      "id": 1,
+      "name": "akshay",
+      "age": "21",
+      "address": "ramnagar",
+      "department": "electric",
+      "salary": "150000",
+      "isStatus": false,
+      "photo": ""
+    }
+  ]
+}
